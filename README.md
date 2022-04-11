@@ -35,5 +35,7 @@ html (./index.html)
 (/images/pin_generator.png)
 
 # Repository
+https://github.com/shane-sepeda/assignment-3-password-generator
 
 # Deployed Webpage
+https://shane-sepeda.github.io/assignment-3-password-generator/
