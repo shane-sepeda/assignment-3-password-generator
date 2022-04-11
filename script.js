@@ -1,5 +1,6 @@
 // Assignment code here
 var PIN = Math.floor(Math.random() * 99999);
+// Creating temporary PIN
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
